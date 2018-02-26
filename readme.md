@@ -1,1 +1,1 @@
-Testing CI/CD workflow with Docker Hub and AWS
+Testing CI/CD workflow with Docker Hub and DockerCloud
